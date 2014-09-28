@@ -1,6 +1,6 @@
 Interview Preparation:
 ===================================
-The following is what Google tells me they require in their technical interviews.
+The following is what Google tells me they will require in my upcoming technical interview.
 ------------------------------------------------------------------------------------
 
 1.) Algorithm Complexity: You need to know Big-O. If you struggle with basic big-O complexity analysis, then you are almost guaranteed not to get hired. For more information on Algorithms you can visit:  http://www.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index
