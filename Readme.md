@@ -12,9 +12,9 @@ http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html
 
 
 3.) System Design: http://research.google.com/pubs/DistributedSystemsandParallelComputing.html
-File Systemhttp://research.google.com/archive/gfs.html
-Bigtablehttp://research.google.com/archive/bigtable.html
-MapReducehttp://research.google.com/archive/mapreduce.html
+ - File System: http://research.google.com/archive/gfs.html
+ - Bigtable: http://research.google.com/archive/bigtable.html
+ - MapReduce: http://research.google.com/archive/mapreduce.html
 
 
 4.) Sorting: Know how to sort. Don't do bubble-sort. You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be highly useful in situations where quicksort is impractical, so take a look at it.
