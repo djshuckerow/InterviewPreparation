@@ -15,9 +15,9 @@ def ackComputation(m, n, computationWrapper):
 	if m <= 0:
 		return n+1
 	elif n <= 0:
-		return ack(m-1, 1, computationWrapper)
+		return ackComputation(m-1, 1, computationWrapper)
 	else:
-		return ack(m-1, ack(m, n-1, computationWrapper), computationWrapper)
+		return ackComputation(m-1, ackComputation(m, n-1, computationWrapper), computationWrapper)
 
 if __name__=='__main__':
 	sys.setrecursionlimit(10**9)
