@@ -1,4 +1,4 @@
-These examples all require Python3!
+These examples all use Python3!
 -------------------------------------
 
 Iterative Analysis
